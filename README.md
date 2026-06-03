@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Paula 🦈
 
-🌊 I am a Master of Marine Biology student at James Cook University, where I specialize in marine conservation and management. 
-🌊 I am passionate about ocean science & community engagement, and aim to pursue a career that connects fieldwork with public outreach to drive meaningful environmental change.
-
-💬 Linkedin: www.linkedin.com/in/paulemathieu
+# 🌊 I am a Master of Marine Biology student at James Cook University, where I specialize in marine conservation and management. 
+#
+# 🌊 I am passionate about ocean science & community engagement, and aim to pursue a career that connects fieldwork with public outreach to drive meaningful environmental change.
+# 
+# 💬 Linkedin: www.linkedin.com/in/paulemathieu
 <!--
 **northpaule/northpaule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
